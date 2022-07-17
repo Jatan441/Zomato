@@ -1,4 +1,4 @@
-#React Chat App
+# React Chat App
 https://velvety-cajeta-edadf6.netlify.app/
 
 # Getting Started with Create React App
